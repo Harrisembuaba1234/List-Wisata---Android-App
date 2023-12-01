@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MyDestination</string>
+    <string name="destination_name">Nama Wisata</string>
+    <string name="description">Alamat</string>
+    <string name="tlp">telepon</string>
+    <string name="web">website</string>
+    <string name="profil">Profile</string>
+
+    <string-array name="data_name">
+        <item>Bali Zoo</item>
+        <item>Danau Batur</item>
+        <item>Danau Beratan</item>
+        <item>Pura Besakih</item>
+        <item>Garuda Wisnu Kencana</item>
+        <item>Pantai Kuta</item>
+        <item>Tanah Lot</item>
+        <item>Pantai Melasti</item>
+        <item>Pantai Pandawa</item>
+        <item>Desa Panglipuran</item>
+    </string-array>
+    <string-array name="data_alamat">
+        <item>Jalan Raya Singapadu, Gianyar, Bali</item>
+        <item>Batur Tengah, Kintamani, Bali</item>
+        <item>Bedugul, Baturiti, Tabanan, Bali</item>
+        <item>Jalan Raya Besakih, Karangasem, Bali</item>
+        <item>Jalan Raya Uluwatu, Badung, Bali</item>
+        <item>Kuta selatan, Denpasar, Bali</item>
+        <item>Beraban, Kediri, Tabanan, Bali</item>
+        <item>jalan Melasti, Kuta Selatan, Badung, Bali</item>
+        <item>Pantai Pandawa, Desa Kutuh, Badung Bali</item>
+        <item>Desa Penglipuran, Bangli, Bali</item>
+    </string-array>
+    <string-array name="data_telepon">
+        <item>+62 361 294357</item>
+        <item>+62 812-4666-8370</item>
+        <item>Tidak ada</item>
+        <item>+62 823-3919-8076</item>
+        <item>(0361) 700808</item>
+        <item>+62 878-6007-6735</item>
+        <item>+62 361 880361</item>
+        <item>+62 361 751066</item>
+        <item>+62 813-3918-5599</item>
+        <item>+62 822-6600-7575</item>
+    </string-array>
+    <string-array name="data_web">
+        <item>bali-zoo.com</item>
+        <item>Tidak ada</item>
+        <item>Tidak ada</item>
+        <item>https://indonesia.travel/sites/site/441/pura-besakih</item>
+        <item>gwkbali.com</item>
+        <item>Tidak ada</item>
+        <item>tanahlot.id</item>
+        <item>Tidak ada</item>
+        <item>Tidak ada</item>
+        <item>https://www.desapenglipuran.com/</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Bali Safari and Marine Park merupakan Taman Safari Indonesia 3 yang menjadi wisata menarik lainnya yang dapat anda kunjungi selama di Bali. Tempat ini menjadi tempat penangkaran bagi hewan-hewan yang rawan punah. Konsep dari Bali Safari and Marine park ini, pengunjung dapat menikmati pengalaman bersafari dimulai dari derah Bali Modern dan kemudian masuk ke daerah Bali kuno yang memberikan beberapa edukasi seputar sejarah, mitos, filosofi, dan lainnya yang berhubungan dengan kehidupan liar.Satwa yang tinggal di Bali Safari and Marine Park ini merupakan jenis satwa yang berasal dari 3 wilayah, yaitu, India, Indonesia, dan Afrika. Kurang lebih sekitar 400 satwa mulai dri rusa tutul, harimau sumatera, beruang madu, jalak putih, beruang Himalaya, black buck, onta punuk satu dan masih banyak lainnya yang dapat anda lihat.</item>
+        <item>Danau eksotis ini berada di kawasan Kintamani, Bali. Nama “batur” ini merujuk pada nama sebuah Gunung yang letaknya tidak jauh dari danau ini yaitu Gunung Batur. Danau Batur berada tepat di lereng Gunung Batur, di ketinggian 1.050 mdpl sehingga udara di sekitar danau ini akan terasa sangat sejuk. Air danau yang berwarna biru kehijauan yan tenang membuat siapapun yang berkunjung ke danau ini akan merasa damai. Ditambah lagi dengan pesona alamnya yang sangat mempesona, membuat wisatawan merasa betah untuk berlama-lama di kawasan Danau Batur ini.Tak hanya dapat menikmati keindahan Danau Batur, pengunjung juga dapat berlayar ke tengah danau maupun mencoba memancing di sekitaran danau. Dan jika anda ingin melihat keseluruhan dari pemandangan yang ada di Danau Batur Kintamani, anda bisa langsung ke desa Penelokan. Disini anda bisa melihta pemandangan Danau Batur dari atas ketinggian yang sangat elok dengan latar belakang Gunung Batur.</item>
+        <item>Danau Beratan, atau yang dikenal sebagai Danau Bratan merupakan wisata danau yang berada di kawasan Bedugul, Desa Candikuning, Kec. Baturiti, Tabanan, Bali. Karena berada di ketinggian 1.240 mdpl, tak heran jika suhu udara yang ada di sekitar danau sangat sejuk dan segar. Danau terluas kedua di bali ini memiliki fungsi utama sebagai sumber irigasi di daerah-daerah yang terletak di bagian tengah Bali.Meskipun begitu, pemandangan alam yang ada di sekitar danau sangat menakjubkan yang membuatnya menjadi 20 danau terbaik dan terindah yang ada di dunia. Salah satu daya tarik yang ada di Danau ini adalah adanya Pura Ulun Danau Berayan yang ada di bagian ujung Danau. Keeoksotisan danau dengan adanya Pura Ulun ini menjadi pesona tersendiri yang tak boleh terlewatkan.</item>
+        <item>Pura terbesar umat Hindu ini berada di Desa Besakih, Kec. Rendang, Kab. Karangasem, tepatnya Pura ini berdiri kokh di kaki Gunung Agung, yang menjadi gunung tertinggi di Pulau Bali. Di kompleks Pura Besakih ini terdapat 1 pura Basukian serta 17 pura lainnya. Dapat dikatakan, jika Pura Besakih merupakan pusat kegiatan dari seluruh pura yang ada di Pulau Bali.Pura Besakih tak hanya kental akan suasana religiusnya, namun pemandangannya yang indah dengan latar belakang Gunung Agung. Tak heran jika Pura yang dibangun sejak 1007 Masehi ini masuk ke dalam salah satu warisan Dunia. Karena tempat yang sangat suci, pastikan anda mengenakan pakaian Sopan saat sedang memasuki kawasan ini, Bagi wanita yang sedang haid, tidak diperkenankan untuk memasuki kawasan Pura Besakih.</item>
+        <item>Garuda Wisnu Kencana atau GWK merupakan salah satu taman wisata budaya yang berada di Bali Selatan. Wisata ini memang cukup populer, terlebih saat ini pembangunan patung raksasai Garuda Wisnu Kencana sudah berhasil diselesaikan.Anda bisa menikmati kemegahan patung karya I Nyoman Nuarta yang juga ditemani dengan keindahan bukit-bukit kapur di sekitarnya. Dan tak hanya itu saja, di GWK terdapat teater seni yang dimana anda bisa melihat berbagai jenis kesenian dan tarian bali setiap harinya.</item>
+        <item>Siapa yang tidak mengenal Pantai Kuta? Wisata pantai ini rasanya menjadi salah satu ikon wisata Pulau Dewata. Pesona dan keeksotisan di Pantai Kuta benar-benar tak bisa diragukan lagi. Sehingga tak heran jika setiap harinya pantai Kuta dipenuhi dengan wisatawan lokal maupun asing.Karena itu lah jika anda ingin mengunjungi pantai Kuta, maka anda bisa mencoba menggunakan sepeda motor atau berjalan kaki dari spot-spot tertentu karena memang kawasan ini cukup ramai. Ada banyak aktivitas menarik yang bisa anda lakukan selama berada di Pantai Kuta, mulai dari berjemur, bermain sepak bola pantai atau voli, berselancar, berjemur, dan masih banyak lainnya. pantai Kuta terbuka untuk umum dan pengunjung sama sekali tidak dikenakan tiket masuk.</item>
+        <item>Wisata yang satu ini terkenal dengan keindahan pemandangannya, terutama menjelang matahari terbenam. Keunikan utama yang ada di wisata tanah lot ini adalah adanya pura yang berada di sebuah batu karang besar yang ada di pinggiran laut.Saat laut sedang pasang, maka anda tidak dapat mendekati pura karena kawasan di sekitar batu karang akan digenangi dengan air laut. Saat air surut, anda dapat melihat beberapa ular laut yang jinak. Konon warga setempat meyakini jika ular-ular ini merupakan penjaga pura Tanah Lot. Selain itu, di kawasan Tanah Lot anda juga bisa mencoba memegang ular suci yang sama sekali tidak berbahaya.</item>
+        <item>Pantai yang berada di kawasan Bali Selatan ini memiliki daya tarik yang cukup unik, sepanjang perjalanan menuju lokasi anda harus melalui jalanan yang berliku dan turunan yang berada di atas tebing-tebing kapur yang kokoh berdiri tinggi. Keeksotisan dari tebing kapur ini lah yang membuatnya menjadi tempat yang sering dijadikan sebagai lokasi pemotretan untuk pre wedding.Disini anda bisa duduk santai sambil melihat keindahan yang ada di kawasan Pantai Melasti. Karena ombaknya yang tidak begitu besar, pantai ini juga aman jika anda ingin bermain air atau berenang. Bagi anda yang menyukai aktivitas snorkeling, anda bisa membawa peralatan anda karena air laut disini begitu jernih dengan pemandangan bawah laut yang ada di pinggiran pantai yang sangat indah.</item>
+        <item>Pantai Pandawa yang berpasir putih ini cukup populer akhir-akhir ini karena menawarkan pemandangan yang begitu eksotis dan mempesona. Berada di Desa Kutuh, Kec. Kuta Selatan, Kab. Badung,pantai ini memiliki hamparan garis pantainya yang landai, bersih, serta bibir pantai yang agak luas, sehingga sangat cocok untuk dijadikan wisata bersama keluarga.Ada banyak aktivitas yang bisa anda coba di tempat ini mulai dari berenang, bermain kano, mengunjungi 5 patung ksatria Pandawa, berselancar, merilekskan diri sejenak dengan pijat tradisional, dan masih banyak lainnya.</item>
+        <item>Desa adat di Bali ini menjadi salah satu destinasi wisata yang tidak boleh terlewatkan saat berlibur di Pulau Bali. Berada di desa Kubu, Kab. Bangli, desa penglipuran ini bertempat di ketinggian 700 mdpl. Sehingga bisa dibayangkan sendiri bagaiaman sejuknya udara saat anda masuk ke kawasan Desan penglipuran.Di desa Pengliperan, anda masih bisa melihat suasana adat Bali yang begitu kental. Anda bisa melihat tampakan rumah-rumah penduduk yang bentuknya hampir sama. Bahkan kemiripannya tersebut dapat dilihat pada bagian atap, dinding, hingga pintu rumah. keunikan dari Desa penglipuran bisa menjadi wisata menarik yang dapat anda kunjungi saat liburan.</item>
+
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/balizo</item>
+        <item>@drawable/batur</item>
+        <item>@drawable/beratan</item>
+        <item>@drawable/besakih</item>
+        <item>@drawable/gwl</item>
+        <item>@drawable/kuta</item>
+        <item>@drawable/lot</item>
+        <item>@drawable/melasti</item>
+        <item>@drawable/pandawa</item>
+        <item>@drawable/panglipuran</item>
+    </integer-array>
+</resources>
